@@ -353,3 +353,4 @@ package-lock.json
 browserslist
 .editorconfig
 .gitkeep
+*.config.js
